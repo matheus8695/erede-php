@@ -21,7 +21,7 @@
   },
   "autoload": {
     "psr-4": {
-      "MatheusGomes\\Rede\\": "src/Rede"
+      "Rede\\": "src/Rede/"
     }
   },
   "authors": [
