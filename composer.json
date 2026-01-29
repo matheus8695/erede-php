@@ -1,8 +1,8 @@
 {
-  "name": "developersrede/erede-php",
-  "version": "5.2.1",
-  "description": "e.Rede integration SDK",
+  "name": "matheusgomes/erede-php",
+  "description": "Fork do developersrede/erede-php com ajustes para PHP 8.5",
   "minimum-stability": "stable",
+  "homepage": "https://github.com/matheus8695/erede-php",
   "license": "MIT",
   "type": "library",
   "require": {
@@ -21,13 +21,13 @@
   },
   "autoload": {
     "psr-4": {
-      "Rede\\": "src/Rede"
+      "MatheusGomes\\Rede\\": "src/Rede"
     }
   },
   "authors": [
     {
-      "name": "João Batista Neto",
-      "email": "neto.joaobatista@gmail.com"
+      "name": "Matheus Gomes",
+      "email": "matheusgomesdelima@hotmail.com"
     }
   ]
 }
