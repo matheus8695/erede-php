@@ -27,7 +27,7 @@ Se já possui um arquivo `composer.json`, basta adicionar a seguinte dependênci
 ```json
 {
 "require": {
-    "developersrede/erede-php": "*"
+    "matheusgomes/erede-php": "*"
 }
 }
 
